@@ -21,7 +21,7 @@ android {
         applicationId = "cn.pylin.xiaoyutyper"
         minSdk = 26
         targetSdk = 37
-        versionCode = 1
+        versionCode = 26112001
         versionName = "0.1.0"
     }
 
