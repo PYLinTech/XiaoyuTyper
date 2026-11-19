@@ -1,10 +1,16 @@
 # XiaoyuTyper
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 XiaoyuTyper is an offline Android pinyin input method (IME) built with
 Jetpack Compose and a native SQLite dictionary. It is an IME-only package:
 there is no launcher activity, setup screen, test screen, or settings UI.
 Enable and select it from Android's input method settings. The current
 release is pre-release 0.1.0.
+
+## Download
+
+APK downloads: <https://ph.pylin.cn/s/kzvovh4uok2c6tjpml3x6xloki>
 
 ## Features
 
