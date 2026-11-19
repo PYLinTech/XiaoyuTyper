@@ -1,0 +1,4 @@
+XZ for Java (org.tukaani:xz)
+Copyright (C) Lasse Collin
+
+This software is in the public domain.
